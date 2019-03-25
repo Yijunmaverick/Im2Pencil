@@ -20,7 +20,7 @@ cd Im2Pencil
 ```
 @inproceedings{Im2Pencil-CVPR-2019,
     author = {Li, Yijun and Fang, Chen and Hertzmann, Aaron and Shechtman, Eli and Yang, Ming-Hsuan},
-    title = {Flow-Grounded Spatial-Temporal Video Prediction from Still Images},
+    title = {m2Pencil: Controllable Pencil Illustration from Photographs},
     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
     year = {2019}
 }
