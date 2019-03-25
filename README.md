@@ -3,7 +3,7 @@ Pytorch implementation of our CVPR19 [paper](https://arxiv.org/pdf/1903.08682.pd
 
 <p>
     <img src='output/t.jpg' width=300 />
-    <img src='output/t_outline.png' width=300 />
+    <img src='output/t_outline.png' width=600 />
 </p>
 
 
