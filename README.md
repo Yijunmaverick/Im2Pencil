@@ -7,8 +7,8 @@ Pytorch implementation of our CVPR19 [paper](https://arxiv.org/pdf/1903.08682.pd
 </p>
 
 <p>
-    <img src='output/15--104.png' width=300 />
-    <img src='output/15--104_shading.png' width=600 />
+    <img src='output/15--104.png' width=250 />
+    <img src='output/15--104_shading.png' width=500 />
 </p>
 
 
