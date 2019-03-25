@@ -6,10 +6,14 @@ Pytorch implementation of our CVPR19 [paper](https://arxiv.org/pdf/1903.08682.pd
     <img src='output/t_outline.png' width=400 />
 </p>
 
+A line input (left) and two pencil outline results (middle: clean, right: rough)
+
 <p>
     <img src='output/15--104.png' height=275 />
     <img src='output/15--104_shading.png' height=275 />
 </p>
+
+A photo input (left) and four pencil shading results ([hatching, crosshatching; blending, stippling])
 
 
 ## Getting started
