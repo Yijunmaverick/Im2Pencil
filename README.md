@@ -23,6 +23,13 @@ cd Im2Pencil
 sh pretrained_models/download_models.sh
 ```
 
+ - Extract the outline and tone image from the input photo (in MATLAB)
+ 
+```
+cd extract_edge_tone
+Im2Pencil_get_edge_tone.m
+```
+
 ## Testing
 
   - Test with different outline and shading styles：
