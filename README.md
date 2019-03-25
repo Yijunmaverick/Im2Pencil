@@ -13,7 +13,7 @@ A line input (left) and two pencil outline results (middle: clean, right: rough)
     <img src='output/15--104_shading.png' height=275 />
 </p>
 
-A photo input (left) and four pencil shading results ([hatching, crosshatching; blending, stippling])
+A photo input (left) and four pencil shading results (right: [hatching, crosshatching; blending, stippling])
 
 
 ## Getting started
