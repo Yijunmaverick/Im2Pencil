@@ -25,11 +25,14 @@ sh pretrained_models/download_models.sh
 
 ## Testing
 
-  - Test with different outline and shading styles
+  - Test with different outline and shading styles：
 
 ```
 python test.py  --outline_style 1  --shading_style 1
 ```
+
+Outline style: 0 for rough and 1 for clean style
+Shading style: 0, 1, 2, 3 for hatching, crosshatching, stippling, and belnding respectively
 
 
 ## Citation
