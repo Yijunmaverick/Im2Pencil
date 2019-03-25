@@ -54,7 +54,7 @@ python test.py  --outline_style 1  --shading_style 1
 
 Outline style: 0 for `rough` and 1 for `clean`
 
-Shading style: 0, 1, 2, 3 for `hatching`, `crosshatching`, `stippling`, and `belnding` respectively
+Shading style: 0, 1, 2, 3 for `hatching`, `crosshatching`, `stippling`, and `blending` respectively
 
 For other controllable parameters, check `options/test_options.py`
 
