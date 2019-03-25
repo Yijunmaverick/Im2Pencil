@@ -25,10 +25,10 @@ sh pretrained_models/download_models.sh
 
 ## Testing
 
-  - Test two steps (prediction + generation) together:
+  - Test with different outline and shading styles
 
 ```
-python test.py  --edge_style 1  --shading_style 1
+python test.py  --outline_style 1  --shading_style 1
 ```
 
 
