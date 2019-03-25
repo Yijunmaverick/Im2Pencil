@@ -6,6 +6,11 @@ Pytorch implementation of our CVPR19 [paper](https://arxiv.org/pdf/1903.08682.pd
     <img src='output/t_outline.png' width=400 />
 </p>
 
+<p>
+    <img src='output/15--104.png' width=200 />
+    <img src='output/15--104_shading.png' width=400 />
+</p>
+
 
 ## Getting started
 
