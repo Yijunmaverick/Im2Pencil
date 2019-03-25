@@ -72,4 +72,4 @@ For other controllable parameters, check `options/test_options.py`
 
 ## Acknowledgement
 
-- We express gratitudes to the great work [Pix2Pix](https://phillipi.github.io/pix2pix/) as we benefit a lot from both their paper and code.
+- We express gratitudes to the great work [XDoG](http://holgerweb.net/PhD/Research/papers/DoGToonNPAR11.pdf) and [Pix2Pix](https://phillipi.github.io/pix2pix/) as we benefit a lot from both their paper and code.
