@@ -17,9 +17,7 @@ cd Im2Pencil
 
 ## Preparation
 
-- Pretrained models
-
-  - Run the following command to download the pretrained VGG (for perceptual loss) and our models learned on the `KTH` and  `WavingFlag` data for testing.
+- Download the pretrained models:
 
 ```
 sh pretrained_models/download_models.sh
