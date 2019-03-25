@@ -8,12 +8,31 @@ Pytorch implementation of our CVPR19 [paper](https://arxiv.org/pdf/1903.08682.pd
 - NVIDIA GPU
 - Pytorch 0.4.1
 - MATLAB
-- [Structured Edge Detection Toolbox](https://github.com/pdollar/edges) by Piotr Dollar
+- [Structured Edge Detection Toolbox](https://github.com/pdollar/edges) by Piotr Dollar 
 
 ```
 git clone https://github.com/Yijunmaverick/Im2Pencil
 cd Im2Pencil
 ```
+
+## Preparation
+
+- Pretrained models
+
+  - Run the following command to download the pretrained VGG (for perceptual loss) and our models learned on the `KTH` and  `WavingFlag` data for testing.
+
+```
+sh pretrained_models/download_models.sh
+```
+
+## Testing
+
+  - Test two steps (prediction + generation) together:
+
+```
+python test.py  --edge_style 1  --shading_style 1
+```
+
 
 ## Citation
 
