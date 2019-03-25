@@ -38,7 +38,7 @@ Im2Pencil_get_edge_tone.m
 python test.py  --outline_style 1  --shading_style 1
 ```
 
-Outline style: 0 for `rough` and 1 for `clean` style
+Outline style: 0 for `rough` and 1 for `clean`
 
 Shading style: 0, 1, 2, 3 for `hatching`, `crosshatching`, `stippling`, and `belnding` respectively
 
