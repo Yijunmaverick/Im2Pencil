@@ -2,7 +2,7 @@
 Pytorch implementation of our CVPR19 [paper](https://arxiv.org/pdf/1903.08682.pdf) on controllable pencil illustration. More results and comparisons are shown [here](https://drive.google.com/file/d/1sl5IBD36bMWAvKH7Uz7An0mcrIOmlopv/view). For non-commercial research collaboration and demostration purposes only.
 
 <p>
-    <img src='output/mouse_outline.gif' width=400 />
+    <img src='output/mouse_outline.gif' width=800 />
 </p>
 
 A line input (left) and two pencil outline results (middle: clean, right: rough)
