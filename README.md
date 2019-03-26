@@ -64,7 +64,7 @@ For other controllable parameters, check `options/test_options.py`
 ```
 @inproceedings{Im2Pencil-CVPR-2019,
     author = {Li, Yijun and Fang, Chen and Hertzmann, Aaron and Shechtman, Eli and Yang, Ming-Hsuan},
-    title = {m2Pencil: Controllable Pencil Illustration from Photographs},
+    title = {Im2Pencil: Controllable Pencil Illustration from Photographs},
     booktitle = {IEEE Conference on Computer Vision and Pattern Recognition},
     year = {2019}
 }
